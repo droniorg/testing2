@@ -1,0 +1,30 @@
+- links:
+    - name: Projects
+      link: /projects/
+    - name: Blog
+      link: /blog/
+    - name: Team
+      link: /about/
+- links:
+    - name: EVS
+      link: /EVS/
+      new_window: false
+    - name: Contact
+      link: /contact/
+      new_window: false
+    - name: Email Login
+      link: 'https://mail.google.com/a/droni.org'
+      new_window: true
+- links:
+    - name: Facebook
+      link: 'https://facebook.com/droniorg'
+      new_window: true
+      social_icon: Facebook
+    - name: YouTube
+      link: 'https://www.youtube.com/channel/UClNchxZUCLUJNoCBRscuyjg'
+      social_icon: YouTube
+      new_window: true
+    - name: Instagram
+      link: 'https://instagram.com/droniorg'
+      social_icon: Instagram
+      new_window: true

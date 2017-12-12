@@ -1,0 +1,25 @@
+- name: Projects
+  link: /projects/
+  new_window: false
+  highlight: false
+- name: EVS
+  link: /EVS/
+  new_window: false
+  highlight: false
+- name: Blog
+  link: /blog/
+  new_window: false
+  highlight: false
+- name: Team
+  link: /about/
+  new_window: false
+  highlight: false
+- name: Contact
+  link: /contact/
+  new_window: false
+  highlight: false
+- name: Email Login
+  link: https://mail.google.com/a/droni.org
+  new_window: true
+  highlight: false
+
